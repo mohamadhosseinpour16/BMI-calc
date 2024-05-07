@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  font-family: cursive;
+}
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.under {
+  background-color: yellow;
+}
+.normal {
+  background-color: green;
+}
+.over {
+  background-color: red;
+}
